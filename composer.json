@@ -16,7 +16,7 @@
 		"cakephp/cakephp": "~3.4",
 		"cakephp/plugin-installer": "*",
 		"cakephp/migrations": "~1.0",
-		"knplabs/gaufrette": "*"
+		"knplabs/gaufrette": ">=5.0"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "<6.0",
